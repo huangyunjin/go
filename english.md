@@ -23,9 +23,7 @@ asset holding  资产持有
 invalid	 [ɪnˈvælɪd] 无效的
 
 
-Stub 存根，单
-mock 模拟
-container  容器
-contain 包含
+Stub 存根，单   mock 模拟  container  容器   contain 包含
 
 
+specific	[spəˈsɪfɪk] 具体的; 明确的

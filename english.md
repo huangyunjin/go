@@ -27,3 +27,6 @@ Stub 存根，单   mock 模拟  container  容器   contain 包含
 
 
 specific	[spəˈsɪfɪk] 具体的; 明确的
+
+
+scheduler  sched  ['ʃedju:lə(r)]  调度程序，日程安排程序

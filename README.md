@@ -34,3 +34,7 @@ https://github.com/onechain/fabric-explorer
 
 ### [fabric 例子](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
 
+
+
+### [方法介绍](http://www.cnblogs.com/studyzy/p/7360733.html)
+

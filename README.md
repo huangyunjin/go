@@ -38,3 +38,5 @@ https://github.com/onechain/fabric-explorer
 
 ### [方法介绍](http://www.cnblogs.com/studyzy/p/7360733.html)
 
+### [fabric数据存储](http://www.cnblogs.com/studyzy/p/7101136.html)
+

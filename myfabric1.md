@@ -35,3 +35,18 @@ asset
 	Body          string `json:"body"`        //附加信息
 	CreateTime    string `json:"createTime"`
 	UpdateTime    string `json:"updateTime"`
+	
+	
+	
+	
+	
+	
+	
+		       amount,err := strconv.Atoi(as.Amount)
+	       if err != nil{
+		       fmt.Println("字符串转换成整数失败")
+	       }
+	       oldAmount ,_:= strconv.Atoi(asset.Amount)
+	       newAmount := oldAmount +amount
+	       oldAmountStr = asset.Amount
+	       newAmountStr := strconv.Itoa(newAmount)

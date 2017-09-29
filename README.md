@@ -44,3 +44,5 @@ https://github.com/onechain/fabric-explorer
 
 
 ### [fab中文](https://hyperledgercn.github.io/hyperledgerDocs/)
+
+### [关于加密](http://rdc.hundsun.com/portal/article/750.html)

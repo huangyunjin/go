@@ -1,5 +1,6 @@
 ## 11111111111111111
 打印   \\10.100.108.239
+
 execute	[ˈeksɪkju:t]  执行
 
 implementation  [ˌɪmplɪmen'teɪʃn]   implement的变形; 安装启用;

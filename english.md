@@ -30,3 +30,6 @@ specific	[spəˈsɪfɪk] 具体的; 明确的
 
 
 scheduler  sched  ['ʃedju:lə(r)]  调度程序，日程安排程序
+
+
+usage    用法

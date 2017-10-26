@@ -33,3 +33,8 @@ scheduler  sched  ['ʃedju:lə(r)]  调度程序，日程安排程序
 
 
 usage    用法
+
+arguments  args  参数
+  
+signature   美[ˈsɪɡnətʃɚ]   签名
+

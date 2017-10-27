@@ -1,5 +1,8 @@
 区块链原理设计与应用`
 
+go 的匿名函数 和闭包  
+
+https://studygolang.com/articles/5057
 
 ## go
 字符串转 int64

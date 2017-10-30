@@ -38,3 +38,5 @@ arguments  args  参数
   
 signature   美[ˈsɪɡnətʃɚ]   签名
 
+
+iterator  [ɪtə'reɪtə]    迭代器，迭代程序

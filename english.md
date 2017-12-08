@@ -40,3 +40,6 @@ signature   美[ˈsɪɡnətʃɚ]   签名
 
 
 iterator  [ɪtə'reɪtə]    迭代器，迭代程序
+
+capacity  美[kəˈpæsɪti]   n.	容量;
+

@@ -60,3 +60,5 @@ https://github.com/onechain/fabric-explorer
 
 
 ### [solidity学习](http://www.tryblockchain.org/Solidity-%E8%AF%AD%E8%A8%80%E4%BB%8B%E7%BB%8D.html)
+
+###[counchdb修改密码] (https://www.cnblogs.com/studyzy/p/7101136.html)

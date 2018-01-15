@@ -63,3 +63,6 @@ https://github.com/onechain/fabric-explorer
 
 ### [counchdb修改密码](https://www.cnblogs.com/studyzy/p/7101136.html)
 ### [counchdb修改](https://www.cnblogs.com/studyzy/p/7101136.html)
+
+### [npm网络代理](https://yutuo.net/archives/c161bd450b2eaf88.html)
+### [counchdb修改](https://www.cnblogs.com/studyzy/p/7101136.html)

@@ -69,3 +69,6 @@ https://github.com/onechain/fabric-explorer
 
 ### [truffle](http://truffle.tryblockchain.org/Truffle-CreateAProjectFolder-创建工程.html)
 http://blog.csdn.net/ethchinese/article/details/68961510
+
+
+solidity   http://blog.csdn.net/xiatiancc/article/details/78910374
